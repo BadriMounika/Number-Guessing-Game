@@ -1,5 +1,5 @@
 # Number-Guessing-Game
-<img src="number.jpg" alt="Image description" width="800" height="500">>
+<img src="num2.png" alt="Image description" width="1000" height="500">>
 # Project Title
 ### Number Guessing Game
 # Description
@@ -7,20 +7,20 @@ The Number Guessing Game is a simple Python project designed to demonstrate basi
 # Methodology
 1. **Random Number Generation**:
 
-The game generates a random number within a predefined range using Python's random module.
+   The game generates a random number within a predefined range using Python's random module.
 
 2. **User Input**:
 
-The player is prompted to enter their guess, and the input is validated to ensure it is a valid number within the specified range.
+   The player is prompted to enter their guess, and the input is validated to ensure it is a valid number within the specified range.
 
 3. **Feedback Mechanism**:
 
-After each guess, the game provides feedback indicating whether the guess is too low, too high, or correct.
+   After each guess, the game provides feedback indicating whether the guess is too low, too high, or correct.
 
 4. **Loop Structure**:
 
-The game uses a loop to allow the player to continue guessing until the correct number is guessed.
+   The game uses a loop to allow the player to continue guessing until the correct number is guessed.
 
 5. **Endgame Conditions**:
 
-Once the correct number is guessed, the game congratulates the player and displays the number of attempts made.
+   Once the correct number is guessed, the game congratulates the player and displays the number of attempts made.
